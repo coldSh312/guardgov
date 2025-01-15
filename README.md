@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or suggestions, feel free to open an issue or reach out:
-- **Email:** guardgov@opensource.org
+- **Email:** coldshowerviking@gmail.com
 - **GitHub Issues:** [Submit here](https://github.com/GuardGov/guardgov/issues)
 
 Let's build a more transparent future together!
